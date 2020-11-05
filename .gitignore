@@ -1,5 +1,4 @@
 .idea/
 node_modules/
-js/
-node_modules/css/style.less
-node_modules/css/
+/js/
+css/
